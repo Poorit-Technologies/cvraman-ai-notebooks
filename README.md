@@ -58,8 +58,8 @@ Each notebook has an **"Open in Colab"** badge - just click it and the notebook 
 
 Use the Rustpad links below to access shared notes, links, and other class materials. These are collaborative documents - anyone with the link can view and edit.
 
-- [Class Notes & Links](https://rustpad.io/#UPDATE_LINK_HERE)
-- [Q&A / Discussion](https://rustpad.io/#UPDATE_LINK_HERE)
+- [Trainer 1 Class Rustpad](https://rustpad.io/#50UjFc)
+- [Trainer 2 Class Rustpad](https://rustpad.io/#fpg3BR)
 
 ---
 
