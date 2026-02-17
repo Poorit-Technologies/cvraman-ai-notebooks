@@ -38,14 +38,14 @@ Some notebooks require API keys. Follow the steps below to create them (all are 
 
 ### OpenAI API Key
 
-1. Go to [platform.openai.com](https://platform.openai.com) and sign up or log in
-2. Navigate to **API Keys** in the left sidebar (or go to [platform.openai.com/api-keys](https://platform.openai.com/api-keys))
+1. Go to <a href="https://platform.openai.com" target="_blank">platform.openai.com</a> and sign up or log in
+2. Navigate to **API Keys** in the left sidebar (or go to <a href="https://platform.openai.com/api-keys" target="_blank">platform.openai.com/api-keys</a>)
 3. Click **Create new secret key**, give it a name, and copy it
 4. **Note:** OpenAI requires adding credits to your account. The minimum is $5, which is more than enough for this course
 
 ### Google Gemini API Key
 
-1. Go to [aistudio.google.com/apikey](https://aistudio.google.com/apikey) and sign in with your Google account
+1. Go to <a href="https://aistudio.google.com/apikey" target="_blank">aistudio.google.com/apikey</a> and sign in with your Google account
 2. Click **Create API key**
 3. Copy the generated key
 4. **Note:** Gemini offers a free tier — no payment required
@@ -63,7 +63,7 @@ Ollama runs open-source models for free. The notebooks install and start Ollama 
 1. Browse this repository on GitHub and navigate to the notebook you want
 2. Click on the `.ipynb` file you want
 3. Click the **Download raw file** button (download icon) near the top-right of the file view
-4. Go to [Google Colab](https://colab.research.google.com)
+4. Go to <a href="https://colab.research.google.com" target="_blank">Google Colab</a>
 5. Click **File > Upload notebook**
 6. Upload the `.ipynb` file you downloaded
 
@@ -75,7 +75,7 @@ git clone https://github.com/Poorit-Technologies/cvraman-ai-notebooks.git
 
 Then upload the notebook to Colab:
 
-1. Go to [Google Colab](https://colab.research.google.com)
+1. Go to <a href="https://colab.research.google.com" target="_blank">Google Colab</a>
 2. Click **File > Upload notebook**
 3. Select the `.ipynb` file from the cloned folder
 
@@ -89,11 +89,10 @@ Then upload the notebook to Colab:
 
 ## Shared Resources
 
-Use the Rustpad links below to access shared notes, links, and other class materials. These are collaborative documents - anyone with the link can view and edit.
+Use the links below to access shared class notes and other materials.
 
-- [Trainer 1 Class Rustpad](https://rustpad.io/#50UjFc)
-- [Trainer 2 / EB 302 Class Rustpad](https://rustpad.io/#fpg3BR)
-- [Trainer 2 / EB 302 Class Notes](https://1drv.ms/w/c/692e3d1cb3926dd9/IQCgtVjjGzzFTIPSXK9-xs5HAZqPPpLg0SBZvu8DWzi1v5s?e=hYBteN)
+- Trainer 1 / EB 301 Class Notes
+- <a href="https://1drv.ms/w/c/692e3d1cb3926dd9/IQCgtVjjGzzFTIPSXK9-xs5HAZqPPpLg0SBZvu8DWzi1v5s?e=hYBteN" target="_blank">Trainer 2 / EB 302 Class Notes</a>
 
 ---
 
@@ -101,4 +100,4 @@ Use the Rustpad links below to access shared notes, links, and other class mater
 
 - **Institution:** CV Raman Global University, Bhubaneswar
 - **Program:** AI Center of Excellence
-- **Developed by:** [Poorit Technologies](https://poorit.in) - *Transform Graduates into Industry-Ready Professionals*
+- **Developed by:** <a href="https://poorit.in" target="_blank">Poorit Technologies</a> - *Transform Graduates into Industry-Ready Professionals*
