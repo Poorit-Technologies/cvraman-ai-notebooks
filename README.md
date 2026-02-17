@@ -36,7 +36,7 @@ All notebooks are designed to run on **Google Colab** - a free, cloud-based Jupy
 
 ### Option 1: Download from GitHub (No Git Required)
 
-1. Go to the notebook file on GitHub (e.g. browse the `ai-systems-engineering-1/unit-1/` folder)
+1. Browse this repository on GitHub and navigate to the notebook you want
 2. Click on the `.ipynb` file you want
 3. Click the **Download raw file** button (download icon) near the top-right of the file view
 4. Go to [Google Colab](https://colab.research.google.com)
