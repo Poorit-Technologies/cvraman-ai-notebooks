@@ -32,6 +32,30 @@ All notebooks are designed to run on **Google Colab** - a free, cloud-based Jupy
 
 ---
 
+## API Keys Setup
+
+Some notebooks require API keys. Follow the steps below to create them (all are free).
+
+### OpenAI API Key
+
+1. Go to [platform.openai.com](https://platform.openai.com) and sign up or log in
+2. Navigate to **API Keys** in the left sidebar (or go to [platform.openai.com/api-keys](https://platform.openai.com/api-keys))
+3. Click **Create new secret key**, give it a name, and copy it
+4. **Note:** OpenAI requires adding credits to your account. The minimum is $5, which is more than enough for this course
+
+### Google Gemini API Key
+
+1. Go to [aistudio.google.com/apikey](https://aistudio.google.com/apikey) and sign in with your Google account
+2. Click **Create API key**
+3. Copy the generated key
+4. **Note:** Gemini offers a free tier — no payment required
+
+### Ollama (No API Key Needed)
+
+Ollama runs open-source models for free. The notebooks install and start Ollama automatically inside Google Colab — no setup required on your end.
+
+---
+
 ## How to Use These Notebooks
 
 ### Option 1: Download from GitHub (No Git Required)
