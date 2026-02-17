@@ -22,10 +22,11 @@ All notebooks are designed to run on **Google Colab** - a free, cloud-based Jupy
 
 #### Unit 1
 
-| # | Notebook | Open in Colab |
-|---|----------|---------------|
-| 01 | Web Scraping and Summarization with LLMs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Poorit-Technologies/cvraman-ai-notebooks/blob/main/ai-systems-engineering-1/unit-1/01-ai-systems-engineering-1-unit1-web-scraping-and-summarization.ipynb) |
-| 02 | Comparing Model Providers - OpenAI, Gemini, and Ollama | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Poorit-Technologies/cvraman-ai-notebooks/blob/main/ai-systems-engineering-1/unit-1/02-ai-systems-engineering-1-unit1-comparing-models.ipynb) |
+| # | Notebook |
+|---|----------|
+| 01 | Web Scraping and Summarization with LLMs |
+| 02 | Comparing Model Providers - OpenAI, Gemini, and Ollama |
+| 03 | Tokenization and Conversation Memory |
 
 *More notebooks will be added as the course progresses.*
 
@@ -33,18 +34,26 @@ All notebooks are designed to run on **Google Colab** - a free, cloud-based Jupy
 
 ## How to Use These Notebooks
 
-### Option 1: Click "Open in Colab" (Recommended)
+### Option 1: Download from GitHub (No Git Required)
 
-Each notebook has an **"Open in Colab"** badge - just click it and the notebook will open directly in Google Colab, ready to run.
+1. Go to the notebook file on GitHub (e.g. browse the `ai-systems-engineering-1/unit-1/` folder)
+2. Click on the `.ipynb` file you want
+3. Click the **Download raw file** button (download icon) near the top-right of the file view
+4. Go to [Google Colab](https://colab.research.google.com)
+5. Click **File > Upload notebook**
+6. Upload the `.ipynb` file you downloaded
 
-### Option 2: Open Manually in Google Colab
+### Option 2: Clone with Git
+
+```bash
+git clone https://github.com/Poorit-Technologies/cvraman-ai-notebooks.git
+```
+
+Then upload the notebook to Colab:
 
 1. Go to [Google Colab](https://colab.research.google.com)
-2. Click **File > Open notebook**
-3. Select the **GitHub** tab
-4. Enter this repository URL: `https://github.com/Poorit-Technologies/cvraman-ai-notebooks`
-5. Select the notebook you want to open
-6. Click **Open**
+2. Click **File > Upload notebook**
+3. Select the `.ipynb` file from the cloned folder
 
 ### Running the Notebook
 
