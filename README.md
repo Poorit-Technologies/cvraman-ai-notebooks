@@ -92,7 +92,7 @@ Then upload the notebook to Colab:
 Use the links below to access shared class notes and other materials.
 
 - Trainer 1 / EB 301 Class Notes
-- <a href="https://1drv.ms/w/c/692e3d1cb3926dd9/IQCgtVjjGzzFTIPSXK9-xs5HAZqPPpLg0SBZvu8DWzi1v5s?e=hYBteN" target="_blank">Trainer 2 / EB 302 Class Notes</a>
+- <a href="https://docs.google.com/document/d/1GDi_uhhCxT5ECqE7wYtrGaMwWeMZa8uyLsy7FYea1Sw/edit?tab=t.0" target="_blank">Trainer 2 / EB 302 Class Notes</a>
 
 ---
 
