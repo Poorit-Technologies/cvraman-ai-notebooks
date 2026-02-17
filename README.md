@@ -92,7 +92,8 @@ Then upload the notebook to Colab:
 Use the Rustpad links below to access shared notes, links, and other class materials. These are collaborative documents - anyone with the link can view and edit.
 
 - [Trainer 1 Class Rustpad](https://rustpad.io/#50UjFc)
-- [Trainer 2 Class Rustpad](https://rustpad.io/#fpg3BR)
+- [Trainer 2 / EB 302 Class Rustpad](https://rustpad.io/#fpg3BR)
+- [Trainer 2 / EB 302 Class Notes](https://1drv.ms/w/c/692e3d1cb3926dd9/IQCgtVjjGzzFTIPSXK9-xs5HAZqPPpLg0SBZvu8DWzi1v5s?e=hYBteN)
 
 ---
 
