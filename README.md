@@ -91,7 +91,7 @@ Then upload the notebook to Colab:
 
 Use the links below to access shared class notes and other materials.
 
-- Trainer 1 / EB 301 Class Notes
+- <a href="https://docs.google.com/document/d/1mSMVs3hOnkdSm1q6JLWB9paTbmsfkW3OwFjyj2IMw9g/edit?usp=sharing" target="_blank">Trainer 1 / EB 301 Class Notes</a>
 - <a href="https://docs.google.com/document/d/1GDi_uhhCxT5ECqE7wYtrGaMwWeMZa8uyLsy7FYea1Sw/edit?tab=t.0" target="_blank">Trainer 2 / EB 302 Class Notes</a>
 
 ---
