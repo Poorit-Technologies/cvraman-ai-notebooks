@@ -66,6 +66,7 @@ Ollama runs open-source models for free. The notebooks install and start Ollama 
    ![Download button location](images/download-button.png)
 4. Go to [Google Colab](https://colab.research.google.com)
 5. Click **File > Upload notebook**
+   ![Upload notebook](images/upload-notebook.png)
 6. Upload the `.ipynb` file you downloaded
 
 ### Option 2: Clone with Git
@@ -78,6 +79,7 @@ Then upload the notebook to Colab:
 
 1. Go to [Google Colab](https://colab.research.google.com)
 2. Click **File > Upload notebook**
+   ![Upload notebook](images/upload-notebook.png)
 3. Select the `.ipynb` file from the cloned folder
 
 ### Running the Notebook
