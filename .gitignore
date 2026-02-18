@@ -1,2 +1,5 @@
 # Quiz answer keys - keep out of version control
 quizzes/
+
+# Exercise solution notebooks - keep out of version control
+ai-systems-engineering-1/unit-1/exercises/solutions/
