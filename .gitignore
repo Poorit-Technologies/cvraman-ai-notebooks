@@ -1,3 +1,6 @@
+# OS files
+.DS_Store
+
 # Quiz answer keys - keep out of version control
 quizzes/
 
